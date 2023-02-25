@@ -26,6 +26,7 @@
 * GitHub Repo link: [Link to repository](https://github.com/Vriddhigupta/DryHunch)
 * Flask Server: [Link to flask server](https://github.com/vishalbdange/DryHunch-Server)
 * DL Model for predicting drought: [Model code](https://github.com/Krishna26Ashar/GoalTube---ML-Model-for-generating-Questionnaire)
+* Application Working Video: [YouTube Video](https://youtube.com/shorts/gmhBfXCZm-g?feature=share)
 
 ## Technology stack
 
