@@ -70,7 +70,7 @@ Tools and technologies that you learnt and used in the project.
 | :-------------: | :-------------:  | :-------------:  | :-------------:  |
 |     Splash Screen1     |    Splash Screen2   |    Instruction Page     |      HomePage     |
 
-| ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-05-24-51-065_com.example.dryhunch.jpg) | ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screens) | ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-05-24-58-007_com.example.dryhunch.jpg) |
+| ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-05-24-51-065_com.example.dryhunch.jpg) | ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-05-24-53-135_com.example.dryhunch%20(1).jpg) | ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-05-24-58-007_com.example.dryhunch.jpg) |
 | :-------------: | :-------------:  | :-------------:  | 
 |     Prediction Page     |    Suggestions   |    Weather Details    | 
 
