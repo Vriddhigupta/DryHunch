@@ -24,9 +24,8 @@
 
 ## Links
 * GitHub Repo link: [Link to repository](https://github.com/Vriddhigupta/DryHunch)
-* Flask Server: [Website Link to flask server](https://github.com/vishalbdange/DryHunch-Server)
-* Admin Panel Github Repository(with Flutter set in it): [Admin Panel Code](https://github.com/abby3010/GoalTube-Admin-Panel)
-* ML Model for genearting questions: [ML Model code](https://github.com/Krishna26Ashar/GoalTube---ML-Model-for-generating-Questionnaire)
+* Flask Server: [Link to flask server](https://github.com/vishalbdange/DryHunch-Server)
+* DL Model for predicting drought: [Model code](https://github.com/Krishna26Ashar/GoalTube---ML-Model-for-generating-Questionnaire)
 
 ## Technology stack
 
