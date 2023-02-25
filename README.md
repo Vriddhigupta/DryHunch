@@ -24,7 +24,7 @@
 
 ## Links
 * GitHub Repo link: [Link to repository](https://github.com/Vriddhigupta/DryHunch)
-* Admin Panel: [Website Link to admin panel](https://goaltube-sih-hackathon.herokuapp.com)
+* Flask Server: [Website Link to flask server](https://github.com/vishalbdange/DryHunch-Server)
 * Admin Panel Github Repository(with Flutter set in it): [Admin Panel Code](https://github.com/abby3010/GoalTube-Admin-Panel)
 * ML Model for genearting questions: [ML Model code](https://github.com/Krishna26Ashar/GoalTube---ML-Model-for-generating-Questionnaire)
 
@@ -50,7 +50,7 @@ Tools and technologies that you learnt and used in the project.
 
 ## Flowchart
 
-<img src="https://github.com/abby3010/GoalTube/blob/main/Screenshots%20-%20GoalTube/architecture.png" width="1000">
+<img src="https://github.com/Vriddhigupta/DryHunch/blob/main/dryhunch.drawio%20(1).png" width="1000">
 
 
 ## Applications
@@ -66,13 +66,13 @@ Tools and technologies that you learnt and used in the project.
 ## Screenshots
 
 ## Screenshots
-| ![](Screenshots%20-%20GoalTube/WhatsApp%20Image%202022-03-26%20at%207.47.40%20AM.jpeg) | ![](Screenshots%20-%20GoalTube/Screenshot_2022-03-26-07-12-29-68_a226cad3b95b00e4795a4053ca203fbc.jpg) | ![](Screenshots%20-%20GoalTube/Screenshot_2022-03-26-07-12-59-95_a226cad3b95b00e4795a4053ca203fbc.jpg) | ![](Screenshots%20-%20GoalTube/Screenshot_2022-03-26-07-13-13-69_a226cad3b95b00e4795a4053ca203fbc.jpg) |
+| ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-05-25-06-385_com.example.dryhunch%20(1).jpg) | ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-05-25-04-473_com.example.dryhunch.jpg) | ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-05-25-02-501_com.example.dryhunch.jpg) | ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-08-40-11-512_com.example.dryhunch%20(1).jpg) |
 | :-------------: | :-------------:  | :-------------:  | :-------------:  |
-|     Splash Screen     |    HomePage   |    Side Drawer     |     All Courses     |
+|     Splash Screen1     |    Splash Screen2   |    Instruction Page     |      HomePage     |
 
-| ![](Screenshots%20-%20GoalTube/Screenshot_2022-03-26-01-51-35-370_com.codingabby.goaltube.jpg) | ![](Screenshots%20-%20GoalTube/Screenshot_2022-03-26-01-51-37-411_com.codingabby.goaltube.jpg) | ![](Screenshots%20-%20GoalTube/SS%201.png) | ![](Screenshots%20-%20GoalTube/Screenshot_2022-03-26-07-13-04-96_a226cad3b95b00e4795a4053ca203fbc.jpg) |
-| :-------------: | :-------------:  | :-------------:  | :-------------:  | 
-|     Videos Grid View     |    Videos List View   |    YouTube Video    |     Add Playlist     |
+| ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-05-24-51-065_com.example.dryhunch.jpg) | ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screens) | ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-05-24-58-007_com.example.dryhunch.jpg) |
+| :-------------: | :-------------:  | :-------------:  | 
+|     Prediction Page     |    Suggestions   |    Weather Details    | 
 
 
 - **Deep Learning Model that will predict the drought condition**
