@@ -76,14 +76,16 @@ Tools and technologies that you learnt and used in the project.
 
 - **Deep Learning Model that will predict the drought condition**
  
-<img src="https://github.com/abby3010/GoalTube/blob/main/Screenshots%20-%20GoalTube/ML_model_1.png" width="1000">
+<img src="https://github.com/Vriddhigupta/DryHunch/blob/main/WhatsApp%20Image%202023-02-25%20at%209.35.50%20AM.jpeg" width="1000">
 
-<img src="https://github.com/abby3010/GoalTube/blob/main/Screenshots%20-%20GoalTube/ML_model_1.png" width="1000">
+<img src="https://github.com/Vriddhigupta/DryHunch/blob/main/WhatsApp%20Image%202023-02-25%20at%209.36.07%20AM.jpeg" width="1000">
 
-<img src="https://github.com/abby3010/GoalTube/blob/main/Screenshots%20-%20GoalTube/ML_model_1.png" width="1000">
+<img src="https://github.com/Vriddhigupta/DryHunch/blob/main/WhatsApp%20Image%202023-02-25%20at%209.36.20%20AM.jpeg" width="1000">
 
-<img src="https://github.com/abby3010/GoalTube/blob/main/Screenshots%20-%20GoalTube/ML_model_1.png" width="1000">
+<img src="https://github.com/Vriddhigupta/DryHunch/blob/main/WhatsApp%20Image%202023-02-25%20at%209.39.26%20AM.jpeg" width="1000">
+
+<img src="https://github.com/Vriddhigupta/DryHunch/blob/main/WhatsApp%20Image%202023-02-25%20at%209.40.32%20AM.jpeg" width="1000">
+
+<img src="https://github.com/Vriddhigupta/DryHunch/blob/main/WhatsApp%20Image%202023-02-25%20at%209.40.56%20AM.jpeg" width="1000">
 
 <img src="https://github.com/Vriddhigupta/DryHunch/blob/main/WhatsApp%20Image%202023-02-25%20at%209.17.04%20AM.jpeg" width="1000">
-
-<img src="https://github.com/abby3010/GoalTube/blob/main/Screenshots%20-%20GoalTube/ML_Model_3.png" width="1000">
