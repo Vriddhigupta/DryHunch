@@ -63,8 +63,6 @@ Tools and technologies that you learnt and used in the project.
 * Increasing the accuracy of the existing Machine Learning Model as well as adding one more algorithm to predict in how many days a drought will possibly take place.
 
 ## Screenshots
-
-## Screenshots
 | ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-05-25-06-385_com.example.dryhunch%20(1).jpg) | ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-05-25-04-473_com.example.dryhunch.jpg) | ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-05-25-02-501_com.example.dryhunch.jpg) | ![](https://github.com/Vriddhigupta/DryHunch/blob/main/Screenshot_2023-02-25-08-40-11-512_com.example.dryhunch%20(1).jpg) |
 | :-------------: | :-------------:  | :-------------:  | :-------------:  |
 |     Splash Screen1     |    Splash Screen2   |    Instruction Page     |      HomePage     |
