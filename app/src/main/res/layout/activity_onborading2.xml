@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/darkblue"
+    tools:context=".Onborading2">
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="30dp"
+        android:src="@drawable/drought_img" />
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:layout_below="@id/imageView1"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="25dp"
+        android:background="@drawable/glass_bg" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/imageView1"
+        android:gravity="start">
+
+        <TextView
+            android:id="@+id/text11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageView1"
+            android:layout_centerHorizontal="true"
+            android:layout_marginStart="60dp"
+            android:layout_marginTop="70dp"
+            android:text="| Say No to"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/text21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  Farmer Suicides"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:layout_below="@id/text11"
+            android:layout_marginStart="60dp"/>
+
+        <TextView
+            android:id="@+id/text31"
+            android:layout_width="307dp"
+            android:layout_height="47dp"
+            android:layout_below="@id/text21"
+            android:layout_marginStart="70dp"
+            android:layout_marginTop="8dp"
+            android:lines="3"
+            android:maxLines="3"
+            android:paddingEnd="50dp"
+            android:layout_centerHorizontal="true"
+            android:text="Get to know the probability and in how many days a drought will hit!"
+            android:textSize="15sp"
+            tools:ignore="RtlSymmetry" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/forward11"
+                android:layout_width="48dp"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/text31"
+                android:layout_marginStart="270dp"
+                android:layout_marginTop="10dp"
+                android:layout_gravity="end"
+                android:background="@drawable/ic_baseline_arrow_forward_ios_24" />
+
+            <Button
+                android:id="@+id/forward21"
+                android:layout_width="48dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginStart="-30dp"
+                android:background="@drawable/ic_baseline_arrow_forward_ios_24" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

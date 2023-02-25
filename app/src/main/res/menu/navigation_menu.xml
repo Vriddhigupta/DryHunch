@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:itemTextAppearance="@style/NewFontStyle"
+    tools:ignore="HardcodedText">
+
+    <item
+        android:id="@+id/nav_application"
+        android:title="Fill concession form"
+        android:icon="@drawable/ic_baseline_assignment_24"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/nav_documents"
+        android:title="Update documents"
+        android:icon="@drawable/ic_baseline_restore_page_24"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/nav_previous"
+        android:title="Previous approved forms"
+        android:icon="@drawable/ic_baseline_history_24"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/nav_account"
+        android:title="My Account"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        app:showAsAction="ifRoom|withText"/>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_baseline_reply_24"
+        app:showAsAction="ifRoom|withText"/>
+
+</menu>
